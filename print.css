@@ -1,0 +1,35 @@
+
+
+h1 {
+	height: 3em;
+	font: Comic Sans;
+	
+	}
+	
+h3 {
+	height: 2em;
+	font: Courier New;
+	
+	}
+	
+h4 {
+	height: 1.5em;
+	font: sans serif;
+	
+	}
+	
+ul {
+	font: Verdana;
+	
+	list-style-type: circle;
+	}
+	
+
+	
+ol {
+	font: Courier New;
+	list-style-type: upper-Roman;
+	}
+	
+
+	
