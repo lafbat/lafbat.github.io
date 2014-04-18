@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Lafbat's Lair</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="screen.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="print.css" />
+  </head>
+  
+<body>
+<headergroup>
+<h1> Lafbat's Lair </h1>
+<img src="github.io.lafbat/bat.png" border=3px color=white align=right/>
+<h4> Welcome to my web page. I will include my hobbies and my professional work here to share with the world! </h4>
+<br/> <br/>
+<h3> Site Navigation - click below to go to that page </h3>
+<p><a href="github.io.lafbat/index.html> INDEX </a>| <a href="github.io.lafbat/about.html"> ABOUT </a> | <a href="github.io.lafbat/prof.html> PROFESSIONAL </a> | <a href="github.io.lafbat/blog.html"> BLOG </a>
+      | <a href="github.io.lafbat/hobby.html> HOBBY </a> | <a href="github.io.lafbat/teach.html> TEACHING STUFF </a> </p>
+
+</headergroup>
+
+<body>
+<div ="1">
+<a href="github.io.lafbat/about.html><button type="button"> About Me</button> </a>
+<p> Click this button to learn about me or contact me.</p>
+</div>
+
+<div ="2">
+<a href="github.io.lafbat/blog.html"> <button type="button"> Blog </button></a>
+<p> This is where to go to see my thoguhts, observations, and musings.</p>
+</div>
+
+<div ="3">
+<a href="github.io.lafbat/prof.html"> <button type="button"> Professional Portfolio </button></a>
+<p>This is my online e-portfolio. </p>
+</div>
+
+<div ="4">
+<a href="github.io.lafbat/hobby.html"><button type="button"> Hobbies </button></a>
+<p>This is my collection of links and info on my hobbies.</p>
+</div>
+
+<div ="5">
+<a href="github.io.lafbat/teach.html"><button type="button"> Teaching Materials </button></a>
+<p>This is my teaching materials archive for tutoring.</p> 
+</div>
+
+
+</html>
